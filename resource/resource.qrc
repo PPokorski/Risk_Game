@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>image/MAPA.png</file>
+        <file>image/MAPA_INFO.png</file>
+        <file>map/map.xml</file>
+    </qresource>
+</RCC>
