@@ -28,6 +28,7 @@ Here's the info map which was used in the game:
 
 ### Moving an army ###
 Another feature is that a player can move his/her army from any region to any other, provided that there's a connection between them. To determine this [Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) was used.
+* * *
 ## Contact ##
 Piotr Pokorski
 
